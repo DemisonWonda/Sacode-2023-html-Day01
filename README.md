@@ -10,4 +10,4 @@ https://instagram.com
 
 ## demo Project day 01 
 https://demisonwonda.github.io/Sacode-2023-html-Day01/
-ini halamat profille : https://demisonwonda.github.io/Sacode-2023-html-Day01/profille.html
+ini alamat profille : https://demisonwonda.github.io/Sacode-2023-html-Day01/profille.html
